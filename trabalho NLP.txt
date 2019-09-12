@@ -1,0 +1,10 @@
+Respondam algumas perguntas a partir de experimentos e análise dos dados:
+
+1) Será que apenas pelo título do livro, conseguimos inferir o gênero? (Fazer um experimento de classificação de texto e utilizar as métricas de classificação)
+2) Quem escreve mais páginas, homens ou mulheres ou não há diferença? (Fazer um gráfico)
+3) Como é a distribuição de gênero de livro para homens e mulheres? (Fazer um gráfico)
+4) Com todos os atributos, fazer um experimento para identificar gênero. Não utilizar a coluna gênero do autor nem nome do autor nem id do autor
+
+5) Fazer alguma visualização com wordcloud (o material que está no módulo tem o código)
+
+Trabalho em trio ou dupla. Preparar apresentação de 30min.
